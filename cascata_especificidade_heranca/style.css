@@ -1,0 +1,30 @@
+/* 
+    CASCATA:
+    quando há conflito de mesmas propriedades, a última propriedade a aparecer sobrescreve todas as outras;
+
+    ESPECIFIDADE:
+    seletores mais importantes (mais específicos) tem prioridade na estilização;
+
+    HERANÇA:
+    os elementos podem herdar certas propriedades do elemento pai. color, font-family
+*/
+
+div {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.titulos {
+    color: purple;
+}
+
+#titulo_principal {
+    color: greenyellow;
+}
+
+h1 {
+    color: red;
+}
