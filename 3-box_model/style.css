@@ -1,0 +1,13 @@
+.primeira_div {
+    /* border: três valores => largura, estilo, cor */
+    border-width: 2px;
+    border-style: solid;
+    border-color: #f00;
+
+    /* border: 2px solid #f00; */
+}
+
+.segunda_div {
+    /* shorthand => escrever vários valores para a mesma propriedade */
+    border: 3px dotted #00f;
+}
