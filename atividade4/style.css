@@ -1,0 +1,35 @@
+body {
+    background-image: url(./marvel-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: #1B512D;
+}
+
+h2 {
+    color: #1C7C54;
+}
+
+h3 {
+    color: #22835A;
+}
+
+.texto-vermelho {
+    color: #F00;
+    /* #RRGGBB 0-9-A-F */ 
+}
+
+.fundo-amarelo {
+    background-color: #FF0;
+}
+
+#titulo {
+    color: #00F;
+}
+
+#capitao-america {
+    
+}
